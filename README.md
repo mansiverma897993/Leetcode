@@ -1,4 +1,4 @@
-# 🚀 LEETCODE
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/> LEETCODE 
 
 This repository contains my daily solved LeetCode problems.
 The goal is to stay consistent, track progress, and build a strong foundation in **Data Structures & Algorithms (DSA)**.
@@ -14,10 +14,10 @@ The goal is to stay consistent, track progress, and build a strong foundation in
 
 ## ✨ Features
 
-✅ Daily problem-solving updates
-✅ Clean and readable C++ / Rust
-✅ Focus on optimized time & space complexity
-✅ Helpful for revision and interview preparation
+✅ Daily problem-solving updates <br>
+✅ Clean and readable C++ / Rust <br>
+✅ Focus on optimized time & space complexity <br>
+✅ Helpful for revision and interview preparation <br>
 
 ---
 
