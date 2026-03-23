@@ -25,7 +25,7 @@ The goal of this repository is to stay consistent, strengthen problem-solving sk
 - C++17 / C++20  
 - Rust  
 - Git & GitHub for version control  
-- VS Code / IntelliJ IDEA  
+- VS Code /WSL  
 
 ---
 
