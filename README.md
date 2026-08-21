@@ -44,3 +44,31 @@ This is a personal practice repo, but if you find improvements or alternate solu
 ---
 
 > ⚡ *Consistency is the key. One problem a day keeps unemployment away.* 😅
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Math
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mansiverma897993/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+<!---LeetCode Topics End-->
