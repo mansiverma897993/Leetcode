@@ -44,3 +44,15 @@ This is a personal practice repo, but if you find improvements or alternate solu
 ---
 
 > ⚡ *Consistency is the key. One problem a day keeps unemployment away.* 😅
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mansiverma897993/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mansiverma897993/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
